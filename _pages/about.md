@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 # title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
@@ -17,7 +18,7 @@ Previously, I obtained my M.Sc. (with distinction) in Computer Science at [RWTH 
     <tbody>
         <tr>
             <td class="left-column">Sept, 2024</td>
-            <td class="right-column">Our paper [Local Contrastive Editing of Gender Stereotypes](https://arxiv.org/abs/2410.17739) was accepted to EMNLP 2024!</td>
+            <td class="right-column">Our paper <a href="https://arxiv.org/abs/2410.17739">Local Contrastive Editing of Gender Stereotypes</a> was accepted to EMNLP 2024!</td>
 	</tr>
 	<tr>
             <td class="left-column">May, 2024</td>
@@ -25,7 +26,7 @@ Previously, I obtained my M.Sc. (with distinction) in Computer Science at [RWTH 
 	</tr>
 	<tr>
             <td class="left-column">May, 2024</td>
-            <td class="right-column">Our paper, [Properties of Group Fairness Measures for Rankings](https://arxiv.org/abs/2212.14351) has been accepted for publication in Transactions on Social Computing!</td>
+            <td class="right-column">Our paper, <a href="https://arxiv.org/abs/2212.14351">Properties of Group Fairness Measures for Rankings</a> has been accepted for publication in Transactions on Social Computing!</td>
 	</tr>
         <tr>
             <td class="left-column">Jul, 2023</td>
@@ -33,7 +34,7 @@ Previously, I obtained my M.Sc. (with distinction) in Computer Science at [RWTH 
 	</tr>
         <tr>
             <td class="left-column">Oct, 2022</td>
-            <td class="right-column">Our paper [SensePOLAR: Word sense aware interpretability for pre-trained contextual word embeddings](https://aclanthology.org/2022.findings-emnlp.338/) was accepted to EMNLP Findings 2022!</td>
+            <td class="right-column">Our paper <a href="https://aclanthology.org/2022.findings-emnlp.338/">SensePOLAR: Word sense aware interpretability for pre-trained contextual word embeddings</a> was accepted to EMNLP Findings 2022!</td>
 	</tr>
    </tbody>
 </table>
