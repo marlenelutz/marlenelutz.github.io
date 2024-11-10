@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD Student at [University of Mannheim](https://www.uni-mannheim.de/) supervised by [Professor Markus Strohmaier](https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/team/prof-dr-markus-strohmaier/). I am interested in computational social science and responsible NLP research, with a focus on advancing  fairness and interpretability in language technologies. Currently, I'm working on measuring and improving demographic representativeness in language models.
+I am a third-year PhD Student at [University of Mannheim](https://www.uni-mannheim.de/) supervised by [Professor Markus Strohmaier](https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/team/prof-dr-markus-strohmaier/). I am interested in computational social science and responsible NLP research, with a focus on advancing  fairness and interpretability in language technologies. Currently, I'm thinking about measuring and improving socio-demographic representativeness in language models.
 
 Previously, I obtained my M.Sc. (with distinction) in Computer Science at [RWTH Aachen](https://www.rwth-aachen.de), where I also worked as a research assistant.
 
@@ -31,10 +31,6 @@ Previously, I obtained my M.Sc. (with distinction) in Computer Science at [RWTH 
         <tr>
             <td class="left-column">Jul, 2023</td>
             <td class="right-column">My conference presentation "SensePOLAR: Word sense aware interpretability for pre-trained contextual word embeddings" was awarded one of the two best parallel talks at IC2S2 2023!</td>
-	</tr>
-        <tr>
-            <td class="left-column">Oct, 2022</td>
-            <td class="right-column">Our paper <a href="https://aclanthology.org/2022.findings-emnlp.338/">SensePOLAR: Word sense aware interpretability for pre-trained contextual word embeddings</a> was accepted to EMNLP Findings 2022!</td>
 	</tr>
    </tbody>
 </table>
