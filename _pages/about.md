@@ -18,7 +18,11 @@ Previously, I obtained my M.Sc. (with distinction) in Computer Science at [RWTH 
     <tbody>
         <tr>
             <td class="left-column">Sept, 2024</td>
-            <td class="right-column">Our paper <a href="https://arxiv.org/abs/2410.17739">Local Contrastive Editing of Gender Stereotypes</a> was accepted to EMNLP 2024!</td>
+            <td class="right-column">Our paper <a href="https://arxiv.org/abs/2507.16076">The Prompt Makes the Person(a): A Systematic Evaluation of Sociodemographic Persona Prompting for Large Language Models</a> was accepted to EMNLP Findings 2025!</td>
+	</tr>
+        <tr>
+            <td class="left-column">Sept, 2024</td>
+            <td class="right-column">Our paper <a href="https://aclanthology.org/2024.emnlp-main.1197/">Local Contrastive Editing of Gender Stereotypes</a> was accepted to EMNLP Main 2024!</td>
 	</tr>
 	<tr>
             <td class="left-column">May, 2024</td>

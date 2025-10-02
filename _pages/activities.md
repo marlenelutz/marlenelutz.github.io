@@ -17,6 +17,9 @@ author_profile: true
 ## Reviewer
 -----------
 
+* ACL Rolling Review (2025)
+* Workshop on Gender Bias in Natural Language Processing (2025)
+* International AAAI Conference on Web and Social Media (2025)
 * The Web Conference (2023)
 * ACM SIGKDD Conference (2022)
 
@@ -25,7 +28,7 @@ author_profile: true
 
 ### Tutorials
 * Network Science (Master, spring 2022)
-* Text Analytics (Master, fall 2022)
+* Text Analytics (Master, fall 2022 & fall 2025)
 
 ### Team Projects
 * "Haters gonna hate, hate, hate: Differences in online discourse about female and male pop singers" (Master, spring 2024)
@@ -33,10 +36,12 @@ author_profile: true
 * "Decoding word embeddings: developing a visualization tool for interpretability" (Master, spring 2023)
 
 ### Seminars
-* Seminar Data Science I - Methods (Master, 2022 - 2024)
-* Seminar Data Science II - Empirical Methods (Master, 2022 - 2024)
+* Seminar Data Science I - Methods (Master, 2022 - 2025)
+* Seminar Data Science II - Empirical Methods (Master, 2022 - 2025)
 
 ### Thesis Supervision
+* "Measuring ambivalent sexism in large language models: A validation study" (Master, 2025)
+* "Sentiment and Emotion on Reddit: A Comparative Study of Users with and without Self-reported Depression Diagnosis" (Master, 2025)
 * "MuSE-DLF: Multi-View-Semantic Enhanced Dictionary Learning for Frame Classification" (Master, 2024)
 * "Examining Gendered Word Embeddings and their Effects on Downstream Tasks" (Master, 2024)
 * "Measuring Perceptions of Veganism on Reddit: Diachronic Analysis UsingWord Embeddings" (Master, 2023)
