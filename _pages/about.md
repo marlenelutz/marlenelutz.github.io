@@ -17,7 +17,7 @@ Previously, I obtained my M.Sc. (with distinction) in Computer Science at [RWTH 
 <table class="twoColumnTable">
     <tbody>
         <tr>
-            <td class="left-column">Sept, 2024</td>
+            <td class="left-column">Aug, 2025</td>
             <td class="right-column">Our paper <a href="https://arxiv.org/abs/2507.16076">The Prompt Makes the Person(a): A Systematic Evaluation of Sociodemographic Persona Prompting for Large Language Models</a> was accepted to EMNLP Findings 2025!</td>
 	</tr>
         <tr>
