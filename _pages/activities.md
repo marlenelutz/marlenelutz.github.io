@@ -42,7 +42,7 @@ author_profile: true
 * Seminar Data Science II - Empirical Methods (Master, 2022 - 2025)
 
 ### Thesis Supervision
-* "Measuring ambivalent sexism in large language models: A validation study" (Master, 2025) [published at EACL Main 2026](https://marlenelutz.github.io/about.html#eacl2026)
+* "Measuring ambivalent sexism in large language models: A validation study" (Master, 2025), [published](https://marlenelutz.github.io/#eacl2026) as a main conference paper at EACL 2026
 * "Sentiment and Emotion on Reddit: A Comparative Study of Users with and without Self-reported Depression Diagnosis" (Master, 2025)
 * "MuSE-DLF: Multi-View-Semantic Enhanced Dictionary Learning for Frame Classification" (Master, 2024)
 * "Examining Gendered Word Embeddings and their Effects on Downstream Tasks" (Master, 2024)

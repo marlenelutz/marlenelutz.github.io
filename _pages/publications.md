@@ -9,6 +9,11 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.de/citations?user=-XwZNzgAAAAJ&hl=de).
 
+# 2026
+Jana Jung, **Marlene Lutz**, Indira Sen, and Markus Strohmaier. "[Do Psychometric Tests Work for Large Language Models? Evaluation of Tests on Sexism, Racism, and Morality](https://arxiv.org/abs/2510.11254)". Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics. 2026.
+
+Maximilian Kreutner, **Marlene Lutz**, and Markus Strohmaier. "[Persona-driven Simulation of Voting Behavior in the European Parliament with Large Language Models](https://arxiv.org/abs/2506.11798)." Findings of the Association for Computational Linguistics: EACL 2026. 2026.
+
 # 2025
 **Marlene Lutz**, Indira Sen, Georg Ahnert, Elisa Rogers, and Markus Strohmaier. "[The Prompt Makes the Person(a): A Systematic Evaluation of Sociodemographic Persona Prompting for Large Language Models](https://arxiv.org/abs/2507.16076)." Findings of the Association for Computational Linguistics: EMNLP 2025. 2025.
 
