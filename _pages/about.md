@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD Student at [University of Mannheim](https://www.uni-mannheim.de/) supervised by [Professor Markus Strohmaier](https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/team/prof-dr-markus-strohmaier/). I work at the intersection of computational social science and responsible NLP, studying how LLMs represent (and sometimes under- and misrepresent) different socio-demographic groups. My research examines how social biases manifest across the model pipeline, from pre-training data and model internals to prompting strategies.
+I am a third-year PhD Student at [University of Mannheim](https://www.uni-mannheim.de/) supervised by [Professor Markus Strohmaier](https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/team/prof-dr-markus-strohmaier/). I work at the intersection of computational social science and responsible NLP, studying how social biases manifest across the model pipeline, from pre-training data and model internals to prompting strategies. I am particularly interested in how LLMs represent (and sometimes under- and misrepresent) different socio-demographic groups.
 
-I am currently investigating how demographic patterns and value-laden signals in the pre-training data connect to model outputs, with the goal of developing language technologies that are more equitable, diverse, and socially responsible.
+Currently, I am investigating how demographic patterns and value-laden signals in the pre-training data connect to model outputs, with the goal of developing language technologies that are more diverse, equitable and socially responsible.
 
 Previously, I obtained my M.Sc. (with distinction) in Computer Science at [RWTH Aachen](https://www.rwth-aachen.de), where I also worked as a research assistant.
 
