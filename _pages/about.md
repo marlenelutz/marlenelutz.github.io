@@ -16,12 +16,20 @@ Previously, I obtained my M.Sc. (with distinction) in Computer Science at [RWTH 
 
 ## News
 
+<style>
+:target {
+  scroll-margin-top: 100px;
+  background-color: #fff3b0;
+  transition: background-color 2s ease;
+}
+</style>
+
 <table class="twoColumnTable">
     <tbody>
 	<tbody id="eacl2026">
 	    <tr>
                 <td class="left-column">Jan, 2026</td>
-                <td class="right-column">Excited that our paper  <a href="https://arxiv.org/abs/2510.11254">Do Psychometric Tests Work for Large Language Models? Evaluation of Tests on Sexism, Racism, and Morality</a> led by my former master’s student Jana Jung and developed from her thesis under my supervision got accepted to EACl Main 2026!</td>
+                <td class="right-column">Excited that our paper  <a href="https://arxiv.org/abs/2510.11254">Do Psychometric Tests Work for Large Language Models? Evaluation of Tests on Sexism, Racism, and Morality</a> led by my former master’s student Jana Jung and developed from her thesis under my supervision got accepted to EACL Main 2026!</td>
 	    </tr>
 	</tbody>
         <tr>
