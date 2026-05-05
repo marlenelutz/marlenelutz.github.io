@@ -26,6 +26,10 @@ Previously, I obtained my M.Sc. (with distinction) in Computer Science at [RWTH 
 
 <table class="twoColumnTable">
     <tbody>
+	<tr>
+            <td class="left-column">May, 2026</td>
+            <td class="right-column">I was selected as an Outstanding Reviewer at EACL 2026!</td>
+	</tr>
 	<tbody id="eacl2026">
 	    <tr>
                 <td class="left-column">Jan, 2026</td>
