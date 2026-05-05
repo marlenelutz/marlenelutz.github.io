@@ -11,7 +11,7 @@ author_profile: true
 * 2025-11-6 [[Poster]](https://marlenelutz.github.io/files/EMNLP_2025_Find-4041.pdf) "The Prompt Makes the Person(a): A Systematic Evaluation of Sociodemographic Persona Prompting for Large Language Models" at [EMNLP 2025](https://2025.emnlp.org/)
 * 2024-11-14 [[Poster]](https://marlenelutz.github.io/files/EMNLP_2024_poster.pdf) "Local Contrastive Editing of Gender Stereotypes" at [EMNLP 2024](https://2024.emnlp.org/)
 * 2024-09-18 [[Talk]](https://marlenelutz.github.io/files/Spatial_encoding_of_stereotypes.pdf) "Exploring the spatial encoding of stereotypical biases in large language models" at [DGPS/ÖGP Congress 2024](https://dgps2024.univie.ac.at/home-news/)
-* 2023-07-20 [[Talk]](https://marlenelutz.github.io/files/5B_345.pdf) "SensePOLAR: Word sense aware interpretability for pre-trained contextual word embeddings" at [IC2S2 2023](https://ic2s2-2023.org/) (🏆 awarded best parallel talk)
+* 2023-07-20 [[Talk]](https://marlenelutz.github.io/files/5B_345.pdf) "SensePOLAR: Word sense aware interpretability for pre-trained contextual word embeddings" at [IC2S2 2023](https://ic2s2-2023.org/) - 🏆 awarded best parallel talk
 * 2022-12-08 [[Poster]](https://marlenelutz.github.io/files/SensePOLAR_poster_EMNLP.pdf) "SensePOLAR: Word sense aware interpretability for pre-trained contextual word embeddings" at [EMNLP 2022](https://2022.emnlp.org/)
 * 2022-07-21 [[Talk]](https://marlenelutz.github.io/files/Evaluating_fair_ranking_metrics.pdf) "Evaluating Group Fairness Metrics for Rankings" at [IC2S2 2022](https://boothuchicagocaai.wixsite.com/website-2/)
 
