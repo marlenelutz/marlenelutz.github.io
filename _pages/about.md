@@ -28,7 +28,7 @@ Previously, I obtained my M.Sc. (with distinction) in Computer Science at [RWTH 
     <tbody>
 	<tr>
             <td class="left-column">May, 2026</td>
-            <td class="right-column">I was selected as an Outstanding Reviewer at EACL 2026!</td>
+            <td class="right-column">I was recognized as an Outstanding Reviewer at EACL 2026!</td>
 	</tr>
 	<tr>
             <td class="left-column">April, 2026</td>
