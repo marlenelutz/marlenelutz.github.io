@@ -30,6 +30,10 @@ Previously, I obtained my M.Sc. (with distinction) in Computer Science at [RWTH 
             <td class="left-column">May, 2026</td>
             <td class="right-column">I was selected as an Outstanding Reviewer at EACL 2026!</td>
 	</tr>
+	<tr>
+            <td class="left-column">April, 2026</td>
+            <td class="right-column">Super excited to be visiting the [MilaNLP](https://milanlproc.github.io/) Lab at Bocconi University with [Debora Nozza](https://www.deboranozza.com/) from April through July!</td>
+	</tr>
 	<tbody id="eacl2026">
 	    <tr>
                 <td class="left-column">Jan, 2026</td>
