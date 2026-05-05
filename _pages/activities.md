@@ -11,14 +11,15 @@ author_profile: true
 * 2025-11-6 [[Poster]](https://marlenelutz.github.io/files/EMNLP_2025_Find-4041.pdf) "The Prompt Makes the Person(a): A Systematic Evaluation of Sociodemographic Persona Prompting for Large Language Models" at [EMNLP 2025](https://2025.emnlp.org/)
 * 2024-11-14 [[Poster]](https://marlenelutz.github.io/files/EMNLP_2024_poster.pdf) "Local Contrastive Editing of Gender Stereotypes" at [EMNLP 2024](https://2024.emnlp.org/)
 * 2024-09-18 [[Talk]](https://marlenelutz.github.io/files/Spatial_encoding_of_stereotypes.pdf) "Exploring the spatial encoding of stereotypical biases in large language models" at [DGPS/ÖGP Congress 2024](https://dgps2024.univie.ac.at/home-news/)
-* 2023-07-20 [[Talk]](https://marlenelutz.github.io/files/5B_345.pdf) "SensePOLAR: Word sense aware interpretability for pre-trained contextual word embeddings" at [IC2S2 2023](https://ic2s2-2023.org/) (awarded best parallel talk)
+* 2023-07-20 [[Talk]](https://marlenelutz.github.io/files/5B_345.pdf) "SensePOLAR: Word sense aware interpretability for pre-trained contextual word embeddings" at [IC2S2 2023](https://ic2s2-2023.org/) (🏆 awarded best parallel talk)
 * 2022-12-08 [[Poster]](https://marlenelutz.github.io/files/SensePOLAR_poster_EMNLP.pdf) "SensePOLAR: Word sense aware interpretability for pre-trained contextual word embeddings" at [EMNLP 2022](https://2022.emnlp.org/)
 * 2022-07-21 [[Talk]](https://marlenelutz.github.io/files/Evaluating_fair_ranking_metrics.pdf) "Evaluating Group Fairness Metrics for Rankings" at [IC2S2 2022](https://boothuchicagocaai.wixsite.com/website-2/)
+
 
 ## Reviewer
 -----------
 
-* ACL Rolling Review (2025)
+* ACL Rolling Review (2025, 2026) - 🏆 Outstanding Reviewer recognition
 * Workshop on Gender Bias in Natural Language Processing (2025)
 * ACL Student Research Workshop (2025)
 * International AAAI Conference on Web and Social Media (2025)
@@ -38,8 +39,9 @@ author_profile: true
 * "Decoding word embeddings: developing a visualization tool for interpretability" (Master, spring 2023)
 
 ### Seminars
-* Seminar Data Science I - Methods (Master, 2022 - 2025)
+* Seminar Data Science I - Methods (Master, 2022 - 2026)
 * Seminar Data Science II - Empirical Methods (Master, 2022 - 2025)
+* Seminar Data Scince III - Social Data Science (Master, 2026)
 
 ### Thesis Supervision
 * "Measuring ambivalent sexism in large language models: A validation study" (Master, 2025), [published](https://marlenelutz.github.io/#eacl2026) as a main conference paper at EACL 2026
@@ -47,4 +49,4 @@ author_profile: true
 * "MuSE-DLF: Multi-View-Semantic Enhanced Dictionary Learning for Frame Classification" (Master, 2024)
 * "Examining Gendered Word Embeddings and their Effects on Downstream Tasks" (Master, 2024)
 * "Measuring Perceptions of Veganism on Reddit: Diachronic Analysis UsingWord Embeddings" (Master, 2023)
-* "Corporate gender biases in contextual neural word embeddings: An analysis using the SensePOLAR Framework" (Master, 2023) awarded with the [Science Prize of the Mannheim Foundation of Business Informatics (fwi e.V.)](https://www.fwi-ev.de/news/) for an outstanding thesis
+* "Corporate gender biases in contextual neural word embeddings: An analysis using the SensePOLAR Framework" (Master, 2023) - 🏆 awarded with the [Science Prize of the Mannheim Foundation of Business Informatics (fwi e.V.)](https://www.fwi-ev.de/news/) for an outstanding Thesis 

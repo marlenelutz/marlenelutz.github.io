@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD Student at [University of Mannheim](https://www.uni-mannheim.de/) supervised by [Professor Markus Strohmaier](https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/team/prof-dr-markus-strohmaier/). I work at the intersection of computational social science and responsible NLP, studying how social biases manifest across the model pipeline, from pre-training data and model internals to prompting strategies. I am particularly interested in how LLMs represent (and sometimes under- and misrepresent) different socio-demographic groups.
+I am a last-year PhD Student at [University of Mannheim](https://www.uni-mannheim.de/) supervised by [Professor Markus Strohmaier](https://www.bwl.uni-mannheim.de/en/information-systems/chairs/prof-dr-strohmaier/team/prof-dr-markus-strohmaier/). I work at the intersection of computational social science and responsible NLP, studying how social biases manifest across the model pipeline, from pre-training data and model internals to prompting strategies. I am particularly interested in how LLMs represent (and sometimes under- and misrepresent) different socio-demographic groups.
 
-Currently, I am investigating how demographic patterns and value-laden signals in the pre-training data connect to model outputs, with the goal of developing language technologies that are more diverse, equitable and socially responsible.
+Currently, I am investigating how demographic patterns in the pre-training data connect to model outputs, with the goal of developing language technologies that are more diverse, equitable and socially responsible.
 
 Previously, I obtained my M.Sc. (with distinction) in Computer Science at [RWTH Aachen](https://www.rwth-aachen.de), where I also worked as a research assistant.
 
@@ -29,7 +29,7 @@ Previously, I obtained my M.Sc. (with distinction) in Computer Science at [RWTH 
 	<tbody id="eacl2026">
 	    <tr>
                 <td class="left-column">Jan, 2026</td>
-                <td class="right-column">Excited that our paper  <a href="https://arxiv.org/abs/2510.11254">Do Psychometric Tests Work for Large Language Models? Evaluation of Tests on Sexism, Racism, and Morality</a> led by my former master’s student Jana Jung and developed from her thesis under my supervision got accepted to EACL Main 2026!</td>
+                <td class="right-column">Excited that our paper  <a href="https://arxiv.org/abs/2510.11254">Do Psychometric Tests Work for Large Language Models? Evaluation of Tests on Sexism, Racism, and Morality</a>, led by my former master’s student Jana Jung and developed from her thesis under my supervision, got accepted to EACL Main 2026!</td>
 	    </tr>
 	</tbody>
         <tr>
