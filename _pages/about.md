@@ -32,7 +32,7 @@ Previously, I obtained my M.Sc. (with distinction) in Computer Science at [RWTH 
 	</tr>
 	<tr>
             <td class="left-column">April, 2026</td>
-            <td class="right-column">Super excited to be visiting the <a href="https://milanlproc.github.io/">MilaNLP Lab at Bocconi University with <a href="https://www.deboranozza.com/">Debora Nozza from April through July!</td>
+            <td class="right-column">Super excited to be visiting the <a href="https://milanlproc.github.io/">MilaNLP Lab</a> at Bocconi University with <a href="https://www.deboranozza.com/">Debora Nozza</a> from April through July!</td>
 	</tr>
 	<tbody id="eacl2026">
 	    <tr>
